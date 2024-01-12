@@ -1,0 +1,6 @@
+@article{REPO009,
+    author = "Huang, Hongzhi and Wang, Yu and Hu, Qinghua and Cheng, Ming-Ming",
+    journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    title = "{Class-Specific Semantic Reconstruction for Open Set Recognition}",
+    year = "2022"
+}
